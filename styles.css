@@ -142,7 +142,7 @@ nav a {
 
 .quote {
     background-color: var(--bg-cl3);
-    padding: 0 22vw;
+    padding: inherit 22vw;
     justify-content: center;
     gap: 10px;
 }
@@ -172,6 +172,7 @@ nav a {
     color: var(--cl1);
     padding: 30px 10vw;
     border-radius: 10px;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
     gap: 20px;
