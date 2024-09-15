@@ -9,3 +9,10 @@ create a landing-page
 get you website as close as the design provided
 
 skills:
+page structure
+flex-box
+flex-wrap
+flex
+flex-direction
+justify-content and align-items
+variable for color on :root
